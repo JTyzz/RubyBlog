@@ -66,7 +66,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: #A5ACAF;
 }
 
 .dev-icons {
@@ -74,13 +74,20 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: #A5ACAF;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
+}
+
+#sideNav .navbar-nav .nav-item .nav-rat {
+  font-weight: 900;
+  letter-spacing: 0.05rem;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-stretch: extra-expanded;
 }
 
 #sideNav .navbar-toggler:focus {
@@ -170,15 +177,15 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #001245 !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #A5ACAF !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #A5ACAF;
 }
 
 a:hover, a:focus, a:active {
